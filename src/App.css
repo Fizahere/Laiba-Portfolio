@@ -1,0 +1,8 @@
+.active-link div {
+    width: 100%;
+    left: 0;
+  }
+  .active-link-mob div {
+    width:4.7rem;
+    left: 0;
+  }
