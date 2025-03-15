@@ -3,7 +3,7 @@ import React from 'react'
 function About() {
   return (
     <section className=" flex flex-col space-x-4 items-center justify-center text-white text-center px-6 pb-20">
-      <h2 className="text-3xl font-bold text-center mb-10">About Me</h2>
+      <h2 className="text-4xl md:text-5xl text-white font-bold text-center mb-10">About Me</h2>
       <p className="text-lg max-w-3xl mx-auto text-center">
         I'm a passionate frontend developer specializing in React.js, Tailwind CSS, and modern web technologies.
       </p>
